@@ -1,4 +1,4 @@
-# 🧑‍🎓 Student Dashboard – Loay Hamdy Rabei
+# 🧑‍🎓 Student Dashboard 
 
 This is a simple one-page student dashboard that replicates the layout of Elsewedy University of Technology's system. Built with basic HTML and CSS.
 
